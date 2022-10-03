@@ -7,3 +7,7 @@ En caso de que este dentro de otra carpeta, apuntar a esta carpeta
 python proyecto\\manage.py runserver
 
 Al terminar, se hosteara una pagina con la direccion que se indica en la consola.
+
+CTRL + C detiene el servidor/pagina web
+
+django-admin startapp core
